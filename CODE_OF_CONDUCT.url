@@ -1,0 +1,10 @@
+[InternetShortcut] ; https://nsis.sourceforge.io/Create_Internet_Shortcut
+URL=https://web.archive.org/web/20120302044346/http://ruleoftheinternet.com:80/
+Desc=Wheaton's Law
+
+; Included for COM compatibility (https://stackoverflow.com/a/70411465); see
+; https://stackoverflow.com/a/3329139/#comment95564407_3329139 as well as
+; https://learn.microsoft.com/en-us/windows/win32/lwef/internet-shortcuts
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+*.url text eol=crlf
+
+.editorconfig   export-ignore
+.gitattributes  export-ignore
+.gitdescription export-ignore
