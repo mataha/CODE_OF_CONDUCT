@@ -7,5 +7,5 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 
 [*.{url}]
-charset = latin1
+charset = unset
 end_of_line = crlf
